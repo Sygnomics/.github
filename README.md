@@ -1,2 +1,1 @@
-# .github
-shared github goodness
+# Shared Github Templates
